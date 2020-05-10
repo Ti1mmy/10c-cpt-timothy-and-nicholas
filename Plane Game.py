@@ -1,6 +1,6 @@
 import hashlib
 import random
-import arcade
+import arcadeplus as arcade
 
 
 # Global Variables ------------------------------------------------------------
